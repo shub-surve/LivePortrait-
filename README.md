@@ -120,11 +120,10 @@ Access the app at: `http://127.0.0.1:8000/`
 
 ## **Screenshots**
 
-### **1. Upload Screen**
-![Upload Screen](path/to/upload-screen.png)
+![image](https://github.com/user-attachments/assets/1bc78580-c0be-46c1-a8c1-05624e3a1b64)
+![image](https://github.com/user-attachments/assets/21d31557-3577-47e3-a539-b2b1d2010e90)
 
-### **2. Generated GIF Screen**
-![Generated GIF](path/to/generated-gif.png)
+
 
 ---
 
